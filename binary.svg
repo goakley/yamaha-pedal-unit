@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="51.25mm"
+   viewBox="0 0 100 51.25"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="binary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2674155"
+     inkscape:cx="75.350191"
+     inkscape:cy="77.717213"
+     inkscape:window-width="2558"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.25"
+       spacingy="0.25"
+       empcolor="#0000ff"
+       empopacity="0.25098039"
+       color="#0000ff"
+       opacity="0.1254902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="0.85227752"
+       y="17.132299"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:20px;stroke-width:0.265;stroke-dasharray:none"
+         x="0.85227752"
+         y="17.132299">10100110</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.5,18.749999 h 8.75"
+       id="path1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.5,18.749999 H 23.75"
+       id="path2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25,18.749999 H 92.500002"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:6px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="34.759995"
+       y="24.560001"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:6px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         x="34.759995"
+         y="24.560001">Sustain Pedal</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         x="34.759995"
+         y="32.060001"
+         id="tspan4">(uint in range [0,63])</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="34.693996"
+       y="39.810001"
+       id="text3-0"><tspan
+         sodipodi:role="line"
+         style="font-size:6px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+         x="34.693996"
+         y="39.810001"
+         id="tspan4-3">Sustenuto (1=pressed)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="34.693996"
+       y="47.060001"
+       id="text3-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:6px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+         x="34.693996"
+         y="47.060001"
+         id="tspan4-3-8">Soft (1=pressed)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.000001,18.749999 v 3.75 h 3.75"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.125,18.749999 v 18.75 h 15.625001"
+       id="path5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.8749999,18.749999 v 26.25 H 33.750001"
+       id="path6" />
+  </g>
+</svg>
