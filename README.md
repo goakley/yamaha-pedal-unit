@@ -2,6 +2,8 @@
 
 This project provides an interface between Yamaha pedal units and USB host devices (like a personal computer).
 
+![A pedal unit with the microcontroller](assembly.jpg)
+
 ## Circuitry
 
 The pedal unit exposes its connections via a 6-pin rectangular cable connector (2mm pitch).
