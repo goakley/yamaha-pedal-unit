@@ -6,13 +6,14 @@ This project provides an interface between Yamaha pedal units and USB host devic
 
 ## Circuitry
 
-The pedal unit exposes its connections via a 6-pin rectangular cable connector (2mm pitch).
-Many Yamaha pianos accept a 6-pin Mini-DIN connector instead of a rectangular connector, so the included cable is often rectangular-to-Mini-DIN.
+The pedal units expose their connections via a 6-pin JST rectangular cable connector (2mm pitch).
+Many Yamaha pianos accept a 6-pin Mini-DIN connector instead of a JST connector, so the included cable is often JST-to-Mini-DIN.
+There are a variety of third-party connectors compatible with the pedal units, such as the [CABLE-PH06](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/CABLE-PH06/9381902).
 
 The pins are extremely simple.
 From left to right (looking at the cable connector head-on), the pins are: voltage, sustain, sostenuto, soft, and ground.
 
-<img src="images/pinout.svg" style="min-width:20em;" alt="The pinout for a rectangular connector cable meant for use with the pedal unit">
+<img src="images/pinout.svg" style="min-width:20em;" alt="The pinout for a JST connector cable meant for use with the pedal unit">
 
 Individual pedals work either as a switch (button) or a potentiometer (variable resistance).
 For a pot pedal, the voltage on the pedal's wire will increase the more the pedal is pressed (i.e. resistance decreases as the pedal is pressed further down).
